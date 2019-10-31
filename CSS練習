@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            h1 {color: #f00}
+        </style>
+        <link rel="stylesheet" href="link.css">
+        <style>            @import url("import.css");
+        </style>
+    </head>
+    <body style="background: lightblue">
+        <h1>Css練習</h1>
+        <h2>Css練習</h2>
+        <h3>Css練習</h3>
+        
+    </body>
+</html>
